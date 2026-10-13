@@ -49,14 +49,21 @@
 
 # Langkah-Langkah Konfigurasi
 ## Konfigurasi Router A
-• Hostname
-• IP Address
-• DHCP Client
-• NAT
-• Web Proxy
-• Firewall
-• Routing OSPF
+1. Hostname
+2. IP Address
+3. DHCP Client
+4. NAT
+5. Web Proxy
+6. Firewall
+7. Routing OSPF
 
+Mulai konfigurasi hostname terlebih dahulu dengan format “Router A – nama peserta”. System → Identity.
+<img width="282" height="141" alt="image" src="https://github.com/user-attachments/assets/0e2e1a4e-7e8d-4c7e-8a08-176674abf64d" />
+
+Setelah itu konfigurasi DHCP Client untuk interface di router yang mengarah ke modem isp yaitu ether1. IP → DHCP Client → Add.
+− Checklist Use Peer DNS
+− Checklist Use Peer NTP
+− Add Default Route: Yes
 
 
 
