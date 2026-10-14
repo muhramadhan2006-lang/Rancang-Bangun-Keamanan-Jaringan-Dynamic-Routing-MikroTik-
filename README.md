@@ -58,6 +58,7 @@
 7. Routing OSPF
 
 Mulai konfigurasi hostname terlebih dahulu dengan format “Router A – nama peserta”. System → Identity.
+
 <img width="282" height="141" alt="image" src="https://github.com/user-attachments/assets/0e2e1a4e-7e8d-4c7e-8a08-176674abf64d" />
 
 Setelah itu konfigurasi DHCP Client untuk interface di router yang mengarah ke modem isp yaitu ether1. IP → DHCP Client → Add.
