@@ -21,7 +21,7 @@
 4. Lakukan pemasangan kabel pada switch, router, proxy server dan client.
 5. Lakukan pengalamatan jaringan pada seluruh perangkat jaringan.
 
-# Daftar & Ketentuan
+# Daftar Ketentuan
 ## Jaringan lokal kabel (LAN)
 1. IP LAN client : 192.200+absen.10.2/24
    
